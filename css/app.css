@@ -11,3 +11,7 @@ header img{
     display: flex;
     justify-content: left;
 }
+.mainRight{
+    display: flex;
+    justify-content: right;
+}
