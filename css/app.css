@@ -15,3 +15,7 @@ header img{
     display: flex;
     justify-content: right;
 }
+footer{
+    font-size: 2rem;
+    line-height: 1rem;
+}
